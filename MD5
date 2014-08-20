@@ -1,0 +1,11 @@
+39afb9c67af92d9e97cab480289d7994 *DESCRIPTION
+6358b2587e303a39787d5df0813b7b96 *NAMESPACE
+ea2487c633da11180bf4ce57bfddf04f *R/Eplot-package.R
+89acade69c37ab7851f7edaf17cd4df1 *R/Eplot.R
+9923f959e87cd4383cbf12a679bcd6a1 *man/Eplot-package.Rd
+65c3903476cd24f55fdf68631bd3e118 *man/FCIplot.Rd
+37b905821b3ec2e782acca4fca4ea0cd *man/lagmat.Rd
+15bc7910bbf4e27fa73577b805664aeb *man/linpred.Rd
+3430263175e2c37cf7690c4166d7adb9 *man/mplott.Rd
+e8064fa4f16f25743ff0ef65942383d8 *man/plott.Rd
+279a0fe14a8e8dfa4c7351abe7d0eb01 *man/tsideplot.Rd
